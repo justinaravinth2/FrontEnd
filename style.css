@@ -1,0 +1,59 @@
+body{
+    background-image: url("img1.jpg");
+    background-size: 100% 110%;
+    background-repeat: no-repeat;
+
+}
+a{
+    text-decoration: none;
+    padding: 3px;
+    margin-left: 4%;
+    padding-left: 30px;
+    font-size: 1.5em;
+    font-family: Cambria;
+    color: black;
+
+}
+.menu-content{
+    margin-top: -10px;
+    text-align: center;
+    background-color: white;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding: 20px;
+    position: relative;
+}
+.phone-logo{
+    text-align: end;
+    width: 28px;
+    margin-left: 10%;
+}
+.cart-logo{
+    text-align: end;
+    width: 28px;
+    margin-left: -5%;
+}
+.content{
+    margin-top: 10%;
+    margin-left: 10%;
+    color: white;
+    margin-right: 800px;
+    font-family: Calibri;
+    background-color: rgba(230, 9, 75, 0.39); 
+    padding-left: 25px;
+    padding: 20px; 
+}
+.paragraph{
+    font-size: 1.1em;
+}
+.title{
+    font-size: 3em;
+}
+.footer{
+    margin-top: 200px;
+    padding: 52px;
+    margin-bottom: -90px;
+    background-image: linear-gradient(to right,rgb(255, 0, 212),yellow );
+    margin-left: -10px;
+    margin-right: -8px;
+}
